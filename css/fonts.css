@@ -4,26 +4,30 @@
 /*
 * Font Awesome Icons 4.7.0
 */
-@font-face {
-  font-family: 'orbiton';
-  src: url('../images/orbitron-bold.otf') format(opentype); 
-}
-@font-face {
-  font-family: evocative;
-  src: url('../images/Evocative\ Free.ttf'); 
-}
-@font-face {
-  font-family: beacon;
-  src: url('../images/Beacon.ttf'); 
-}
-@font-face {
-  font-family: diagond;
-  src: url('../images/diagond.otf'); 
-}
-@font-face {
-  font-family: cano;
-  src: url('../images/Cano.otf'); 
-}
+
+   @font-face {
+    font-family: 'Inferno Racers';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Inferno Racers'), url('../fonts/InfernoRacers-rvldK.woff') format('woff');
+    }
+
+
+
+
+     @font-face {
+    font-family: 'Stanza';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Stanza'), url('../fonts/Stanza-m2gV5.woff') format('woff');
+    }
+
+	 @font-face {
+    font-family: 'Cano Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Cano Regular'), url('../fonts/Cano.woff') format('woff');
+    }
 
 @font-face {
 	font-family: 'FontAwesome';
