@@ -7,6 +7,16 @@
 */
 
 
+.orbitron {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+
+
 .context-dark, .bg-gray-700, .bg-gray-900, .bg-gray-3, .bg-primary,
 .context-dark h1,
 .bg-gray-700 h1,
@@ -1407,7 +1417,7 @@ p [style*='max-width'] {
 .title-style-1 {
 	letter-spacing: .075em;
 	padding: 8px 20px 0;
-	font-family: diagond;
+	font-family: Diagond;
 	color: #00ff85;
 }
 
@@ -1416,7 +1426,7 @@ p [style*='max-width'] {
 	letter-spacing: .4em;
 	padding: 0 3px 0 10px;
 	background: #000000;
-	font-family: evocative;
+	font-family: Inferno Racers;
 }
 
 @media (min-width: 768px) {
@@ -4760,7 +4770,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 * + .preloader-title {
-	font-family: 'evocative';
+	font-family: 'Inferno Racers';
 	margin-top: 20px;
 }
 
@@ -5302,7 +5312,7 @@ html.tablet .ui-to-top {
 	font-weight: 400;
 	letter-spacing: 0;
 	text-transform: none;
-	font-family: beacon;
+	font-family: Stanza;
 	color: #ffffff;
 	transition: all .25s ease;
 	z-index: 1;
